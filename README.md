@@ -1,1 +1,1 @@
-## This is a fountation project repo for stutern software engineering project.
+## This is a fountation project repo for stutern software engineering program.
